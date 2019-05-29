@@ -1,0 +1,4 @@
+Here are our current best practices for doing RNAseq in the lab. 
+
+1. Sex chromosome aware
+Using a reference informed by the sex chromosome complement of the sample.
