@@ -19,14 +19,12 @@
   1. I used fastq files from three exome from the placenta project.
   2. After mapping, I did joint-genotyping across the three placenta individuals
   3. Results:
-  
     1. On the autosomes:
       1. There are **251,030** variants that were genotyped when mapping **without** taking into account alternative contigs
       2. There are **265,658** variants that were genotyped when mapping **with** taking into account alternative contigs
       3. There are **250,956** variants that are common between the two mapping methods. **250,530** of these variants match exactly in terms of genotypes
       4. There are **74** variants that were genotyped **only** when mapping **without** taking into account alternative contigs
       5. There are **14,702** variants that were genotyped **only** when mapping **with** taking into account alternative contigs
-      
     2. On the X x_chromosome:
       1. There are **5,741** variants that were genotyped when mapping **without** taking into account alternative contigs
       2. There are **5,836** variants that were genotyped when mapping **with** taking into account alternative contigs
