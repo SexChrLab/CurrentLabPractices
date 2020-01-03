@@ -1,0 +1,30 @@
+{
+    "female_placentas" : [
+    "OBG-0022-PLAC", "OBG-0024-PLAC", "OBG-0026-PLAC"
+    ],
+    "trimmed_fq_path": "/scratch/tphung3/PlacentaSexDiff/batch_2/exome_processing/trimmed_fastqs/",
+
+    "OBG-0022-PLAC":{
+      "ID": "OBG0022-PLAC",
+      "SM": "OBG0022-PLAC_whole_exome",
+      "LB": "OBG0022-PLAC_whole_exome",
+      "PU": "HHFTKDSXX.3",
+      "PL": "Illumina"
+    },
+
+    "OBG-0024-PLAC":{
+      "ID": "OBG-0024-PLAC",
+      "SM": "OBG-0024-PLAC_whole_exome",
+      "LB": "OBG0024-PLAC_whole_exome",
+      "PU": "HHFTKDSXX.3",
+      "PL": "Illumina"
+    },
+
+    "OBG-0026-PLAC":{
+      "ID": "OBG0026-PLAC",
+      "SM": "OBG0026-PLAC_whole_exome",
+      "LB": "OBG0026-PLAC_whole_exome",
+      "PU": "HHFTKDSXX.3",
+      "PL": "Illumina"
+    }
+}
